@@ -461,6 +461,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
+- <img src="https://github.com/koda-ai-studio.png" height="14"/> [agent-bom](https://github.com/koda-ai-studio/agent-bom) - AI supply-chain BOM: inventories agents, MCP servers and AI packages, audits MCP tool descriptions for poisoning, and shows which agent can reach a vulnerable package or credential.
+
 <br />
 
 ## 🔌 <a name="iot"></a>IoT
